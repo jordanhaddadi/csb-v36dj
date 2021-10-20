@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://jordanhaddadi.github.io/csb-v36dj/static/js/main.a33b45f8.chunk.js",
+    "main.js.map": "https://jordanhaddadi.github.io/csb-v36dj/static/js/main.a33b45f8.chunk.js.map",
+    "runtime-main.js": "https://jordanhaddadi.github.io/csb-v36dj/static/js/runtime-main.cef9dfcd.js",
+    "runtime-main.js.map": "https://jordanhaddadi.github.io/csb-v36dj/static/js/runtime-main.cef9dfcd.js.map",
+    "static/js/2.c7fcab77.chunk.js": "https://jordanhaddadi.github.io/csb-v36dj/static/js/2.c7fcab77.chunk.js",
+    "static/js/2.c7fcab77.chunk.js.map": "https://jordanhaddadi.github.io/csb-v36dj/static/js/2.c7fcab77.chunk.js.map",
+    "index.html": "https://jordanhaddadi.github.io/csb-v36dj/index.html",
+    "static/js/2.c7fcab77.chunk.js.LICENSE.txt": "https://jordanhaddadi.github.io/csb-v36dj/static/js/2.c7fcab77.chunk.js.LICENSE.txt",
+    "static/media/logo.336f7ba3.svg": "https://jordanhaddadi.github.io/csb-v36dj/static/media/logo.336f7ba3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cef9dfcd.js",
+    "static/js/2.c7fcab77.chunk.js",
+    "static/js/main.a33b45f8.chunk.js"
+  ]
+}
